@@ -1,0 +1,13 @@
+color=input('enter the colour:')
+if(color=="red"):
+	print(color,'is mean by stop in traffic light')
+elif(color=="yellow"):
+	print(color,'is mean by ready in traffic light')
+elif(color=="green"):
+	print(color,'is mean by go in traffic light')
+else:
+			print(color,'color is not in traffic light')
+			
+			
+
+	
