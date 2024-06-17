@@ -6,7 +6,7 @@ elif(color=="yellow"):
 elif(color=="green"):
 	print(color,'is mean by go in traffic light')
 else:
-			print(color,'color is not in traffic light')
+	print(color,'color is not in traffic light')
 			
 			
 
